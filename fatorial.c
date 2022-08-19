@@ -21,4 +21,5 @@ int main(){
 		printf("%d\n",fatorial);
 			fatorial=1;
 	}
+	return 0;
 }
